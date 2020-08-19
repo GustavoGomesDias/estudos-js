@@ -5,6 +5,6 @@
 
 <ol>
     <li>
-        <a href="#">"Inicio"</a>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/inicio">"Inicio"</a>
     </li>
 </ol>

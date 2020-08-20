@@ -7,4 +7,7 @@
     <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/inicio">"Inicio"</a>
     </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/desafio-pratico">Desafio prático</a>
+    </li>
 </ol>

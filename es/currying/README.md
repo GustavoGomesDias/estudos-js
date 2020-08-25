@@ -15,3 +15,5 @@ soma(2, 5);
 
 ```
 Enfim, o intuito é passar de forma que não precise passar o 2 toda hora, sendo que no currying haverá uma nova função que recebe o segundo parâmetro.
+
+[Como fica a função do exemplo](https://github.com/GustavoGomesDias/estudos-js/blob/master/es/currying/currying.js)

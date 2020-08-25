@@ -8,9 +8,9 @@
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/inicio">"Inicio"</a>
     </li>
     <li>
-        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/desafio-pratico">Desafio prático</a>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/conceitos1">Performance WEB</a>
     </li>
     <li>
-        <a href="#">ECMAScript</a>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/es">ECMAScript</a>
     </li>
 </ol>

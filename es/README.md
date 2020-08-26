@@ -12,4 +12,7 @@
     <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/es/filter-map-reduce">Filter, map e reduce</a>
     </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/es/intro-orientacao-objeto">Introdução a Orientação a Objeto</a>
+    </li>
 </ol>

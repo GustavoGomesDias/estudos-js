@@ -1,5 +1,6 @@
 <h2>E aí...</h2>
 <h1>Esse repositório é sobre meus estudos em JavaScript</h1>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <h3>Navegação</h3>
 <ol>
     <li>

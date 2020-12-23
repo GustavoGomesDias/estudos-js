@@ -29,7 +29,7 @@
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/functions">Arrow Functions, Constructor Functions, Generator Functions</a>
     </li>
     <li>
-        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">Objetos Literários e MAP</a>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/object">Objetos Literários e MAP</a>
     </li>
     <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/POO">Intro. a POO</a>

@@ -11,5 +11,11 @@
     <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/conceitos1">Performance WEB</a>
     </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/POO">Intro. a POO</a>
+    </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">O que eu não sei onde colocar</a>
+    </li>
 </ol>
     

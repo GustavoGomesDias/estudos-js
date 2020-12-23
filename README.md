@@ -15,7 +15,7 @@
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/POO">Intro. a POO</a>
     </li>
     <li>
-        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">O que eu não sei onde colocar</a>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">Funcionalidades</a>
     </li>
 </ol>
     

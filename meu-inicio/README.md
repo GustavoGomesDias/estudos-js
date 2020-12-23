@@ -28,4 +28,16 @@
     <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js/blob/master/meu-inicio/funcionalidades/promises.js">Promise</a>
     </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/blob/master/meu-inicio/funcionalidades/async-await.js">Async Await</a>
+    </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/blob/master/meu-inicio/funcionalidades/map.js">Método Map</a>
+    </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/blob/master/meu-inicio/funcionalidades/filter.js">Método Filter</a>
+    </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/blob/master/meu-inicio/funcionalidades/reduce.js">Método Reduce</a>
+    </li>
 </ol>

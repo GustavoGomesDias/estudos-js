@@ -5,6 +5,9 @@
     <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js#o-que-tem-aqui">O que tem aqui</a>
     </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js#minhas-refer%C3%AAncias">Minhas referências</a>
+    </li>
 </ol>
 
 <h3>O que tem aqui</h3>

@@ -23,10 +23,19 @@
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/conceitos1">Performance WEB</a>
     </li>
     <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">Funcionalidades</a>
+    </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/functions">Arrow Functions, Constructor Functions, Generator Functions</a>
+    </li>
+    <li>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">Objetos Literários e MAP</a>
+    </li>
+    <li>
         <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/POO">Intro. a POO</a>
     </li>
     <li>
-        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/funcionalidades">Funcionalidades</a>
+        <a href="https://github.com/GustavoGomesDias/estudos-js/tree/master/promise">Promise</a>
     </li>
 </ol>
 

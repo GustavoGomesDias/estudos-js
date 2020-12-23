@@ -25,7 +25,7 @@ c2.info();
 c2.marca = "Honda";
 c2.modelo = "HRV";
 
-console.log("c2"c2.info();
+console.log("c2: " + c2.info());
 
 console.log("Carro");
 Carro.info();

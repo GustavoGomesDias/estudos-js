@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor</title>
+    <script src="convert.js"></script>
+</head>
+<body>
+    <div>
+        <header>
+            <h1>Calculasora de Conversor de Base Númerica</h1>
+        </header>
+        <div>
+            <h2>Número -> Número na Base</h2>
+            <input type="number" id="input-number-b">
+            <input type="number" id="input-base-b">
+            <button type="button" onclick="convert_for_base()">Converter</button>
+            <p id="result-b"></p>
+        </div>
+
+        <div>
+            <h2>Número na Base -> Número</h2>
+            <input type="text" id="input-number-n">
+            <input type="number" id="input-base-n">
+            <button type="button" onclick="convert_for_number()">Converter</button>
+            <p id="result-n"></p>
+        </div>
+
+    </div>
+</body>
+</html>

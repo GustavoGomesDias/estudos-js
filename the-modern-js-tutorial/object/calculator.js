@@ -6,6 +6,7 @@ let calculator = {
         return this.a * this.b;
     },
     read(){
+        // +prompt converte para number
         this.a = +prompt("A:", 0);
         this.b = +prompt("B:", 0);
     }

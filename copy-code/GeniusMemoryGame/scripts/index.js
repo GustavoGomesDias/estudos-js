@@ -9,7 +9,7 @@ let score = 0;
 
 /* 
 0 = Red
-1 = Grenn
+1 = Green
 2 = Yellow
 3 = Blue
  */
@@ -19,7 +19,7 @@ let score = 0;
 // # => id, . => class
 
 const red = document.querySelector('.red');
-const grenn = document.querySelector('.grenn');
+const green = document.querySelector('.green');
 const yellow = document.querySelector('.yellow');
 const blue = document.querySelector('.blue');
 
@@ -79,7 +79,7 @@ let click = (color) => {
   // Desliga a cor (pisca) do selecionado
   setTimeout(() => {
     createColorElement(color).classList.remove('selected');
-    createOrder();
+    checkOrder();
   }, 250);
 };
 
@@ -88,7 +88,7 @@ let createColorElement = (color) => {
   if(color == 0){
     return red;
   }else if(color == 1){
-    return grenn;
+    return green;
   }else if(color == 2){
     return yellow;
   }else if(color == 3){
@@ -122,7 +122,8 @@ let playGame = () => {
 };
 
 // Clique para as cores
-red   .onclick = () => click(0);
-grenn .onclick = () => click(1);
+red.onclick = () => click(0);
+green.onclick = () => click(1);
 yellow.onclick = () => click(2);
-blue  .onclick = () => click(3);
+blue.onclick = () => click(3);
+playGame();

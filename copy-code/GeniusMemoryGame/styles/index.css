@@ -19,7 +19,7 @@
   border-radius: 100%;
 
   display: grid;
-  grid-template-areas: "green2 yellow3 red1 blue4";
+  grid-template-areas: "green2 yellow3" "red1 blue4";
   grid-gap: 10px;
 }
 

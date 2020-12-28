@@ -1,0 +1,58 @@
+/* Setnado o tamanho e centralizando as divs */
+/* as variáveis var(x) vem de  main.css */
+.main-game {
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.genius {
+  height: 20rem;
+  min-width: 20rem;
+
+  background-color: var(--black);
+  border: 5px solid var(--black);
+  /* Arredonda as bordas */
+  border-radius: 100%;
+
+  display: grid;
+  grid-template-areas: "green2 yellow3 red1 blue4";
+  grid-gap: 10px;
+}
+
+.red {
+  background-color: var(--main-red);
+  border-bottom-left-radius: 100%;
+  grid-area: red1;
+}
+.green {
+  background-color: var(--main-green);
+  border-top-left-radius: 100%;
+  grid-area: green2;
+}
+.yellow {
+  background-color: var(--main-yellow);
+  border-top-right-radius: 100%;
+  grid-area: yellow3;
+}
+.blue {
+  background-color: var(--main-blue);
+  border-bottom-right-radius: 100%;
+  grid-area: blue4;
+}
+
+.red,
+.green,
+.yellow,
+.blue {
+  cursor: pointer;
+}
+
+.selected {
+  opacity: 0.5;
+  
+  transition: 400ms;
+}

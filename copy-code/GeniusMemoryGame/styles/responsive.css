@@ -1,0 +1,21 @@
+@media(min-width: 500px){
+  .main-game div.genius {
+    height: 30rem;
+    min-width: 30rem;
+  }
+}
+
+@media (min-width: 650px){
+  .main-game div.genius {
+    height: 40rem;
+    min-width: 40rem;
+  }
+}
+
+/* Desktop version */
+@media (min-width: 800px){
+  .main-game div.genius {
+    height: 60rem;
+    min-width: 60rem;
+  }
+}

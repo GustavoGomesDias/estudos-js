@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  /* Variáveis */
+  --background: #dddddd;
+  --background-altP: #ff7a7a;
+  --background-altS: #7c8cff;
+
+  --main-red: #ff3b3b;
+  --main-green: #57ec39;
+  --main-yellow: #fcff39;
+  --main-blue: #1d34ff;
+
+  --white: #fff;
+  --black: #000;
+}
+
+body {
+  /* linear-gradient => cria uma imagem que consiste em uma transição progressiva entre duas ou mais cores ao longo de uma linha reta. */
+  background: linear-gradient(329.54deg, var(--background) 0%, var(--white) 100%) no-repeat;
+}

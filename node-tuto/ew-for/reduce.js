@@ -28,7 +28,7 @@ async function main(){
 
     const total = minhaLista.meuReduce((ant, prox) => {
       return ant.concat(prox);
-    }, []).join(', ')
+    }, []).join(', ');
     console.log("Total =", total);
 
   }catch(err){
